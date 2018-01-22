@@ -1,0 +1,23 @@
+.avatar {
+  display: block;
+  width: 300px;
+  margin: 0 auto 30px auto;
+  background: url('../../images/avatar.png');
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 400px;
+  width: 400px;
+}
+
+.own-header {
+  font-family: 'Lato', sans-serif;
+  font-size: 2.5em;
+  font-weight: 900;
+  /* letter-spacing: 0.2em; */
+  margin: 0;
+  padding-left: 0.05em;
+  position: relative;
+  text-transform: uppercase;
+}
