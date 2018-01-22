@@ -36,3 +36,36 @@ ul.featured-icons li {
   margin-top: -10px;
   margin-bottom: 30px;
 }
+
+.project-image:before {
+  background: transparent;
+}
+
+.icon:before {
+  font-family: inherit;
+}
+
+.icon-label {
+  padding-top: 5px;
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.devicon {
+  height: 75px;
+  width: 75px;
+}
+
+.icon-container {
+  margin-top: 50px;
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+}
+
+ul.featured-icons {
+  opacity: 1;
+  margin-top: -50px;
+}
