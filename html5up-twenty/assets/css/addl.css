@@ -21,3 +21,18 @@
   position: relative;
   text-transform: uppercase;
 }
+
+ul.featured-icons li {
+  width: 33.3333%;
+}
+
+.skills-title {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  margin: 0 auto;
+  font-weight: 400;
+  font-size: 32px;
+  margin-top: -10px;
+  margin-bottom: 30px;
+}
