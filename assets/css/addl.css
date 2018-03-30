@@ -66,6 +66,8 @@ ul.featured-icons {
   margin-top: -50px;
 }
 
-ul.featured-icons li {
-  float: left !important;
+@media screen and (max-width: 840px) {
+  ul.featured-icons li {
+    float: left !important;
+  }
 }
