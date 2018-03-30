@@ -67,5 +67,5 @@ ul.featured-icons {
 }
 
 ul.featured-icons li {
-  float: left;
+  float: left !important;
 }
