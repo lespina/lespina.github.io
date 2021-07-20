@@ -59,6 +59,7 @@ ul.featured-icons li {
   display: flex !important;
   flex-direction: column;
   align-items: center;
+  height: 106px;
 }
 
 ul.featured-icons {

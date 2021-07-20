@@ -1741,7 +1741,7 @@
 		input[type="email"]:focus,
 		textarea:focus {
 			border-color: #83d3c9;
-			border-color: DeepSkyBlue;
+			border-color: orchid;
 		}
 
 	input[type="text"],
@@ -2068,8 +2068,8 @@
 		.button.special {
 			background: #83d3c9;
 			border-color: #83d3c9;
-			background: DeepSkyBlue;
-			border-color: DeepSkyBlue;
+			background: orchid;
+			border-color: orchid;
 			color: #fff !important;
 		}
 
@@ -2112,7 +2112,7 @@
 
 		.wrapper.style2 {
 			background-color: #83d3c9;
-			background-color: DeepSkyBlue;
+			background-color: orchid;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -2349,7 +2349,7 @@
 
 			.dropotron > li:hover > a {
 				background: #83d3c9;
-				background: DeepSkyBlue;
+				background: orchid;
 				color: #fff;
 			}
 
