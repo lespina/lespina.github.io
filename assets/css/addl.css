@@ -71,4 +71,16 @@ ul.featured-icons {
   ul.featured-icons li {
     float: left !important;
   }
+
+  .avatar {
+    display: block;
+    margin: 0 auto 30px auto;
+    background: url("../../images/avatar.png");
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+  }
 }
